@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Piyush",
+    "picture": "images/1.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Delhi, India"
+  },
+  {
+    "id": 1,
+    "name": "Jiya",
+    "picture": "images/2.jpg",
+    "age": 3,
+    "breed": "Scottish Terrier",
+    "location": "Noida, India"
+  },
+  {
+    "id": 2,
+    "name": "Mohan",
+    "picture": "images/3.jpg",
+    "age": 2,
+    "breed": "French Bulldog",
+    "location": "New delhi, India"
+  }
+]
